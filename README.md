@@ -161,4 +161,4 @@ Upload `submission.csv` to the Kaggle competition's "Submit Predictions" page.
 | `notebook_snellius.ipynb` | Main notebook — Snellius/headless-ready, 10-fold CV, GPU training |
 | `run.job` | SLURM batch job script |
 | `setup_env.sh` | One-time environment setup script |
-| `data/` | `train.csv`, `test.csv` (add your own; check competition rules before committing raw data to GitHub) |
+| `data/` | `train.csv`, `test.csv` |
